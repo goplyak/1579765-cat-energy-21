@@ -1,7 +1,7 @@
 # Личный проект «Кэт энерджи» [![Build status][travis-image]][travis-url] [![Dependency status][dependency-image]][dependency-url]
 
 * Студент: [Сергей Гопляк](https://up.htmlacademy.ru/adaptive/21/user/1579765).
-* Наставник: `Неизвестно`.
+* Наставник: [Михаил Савотиков](https://up.htmlacademy.ru/adaptive/21/user/98316).
 
 ---
 
